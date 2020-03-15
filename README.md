@@ -1,29 +1,18 @@
-# psychea
+# PSYCHEA project
 
-## Project setup
-```
-npm install
-```
+Ссылка на макет в Figma:
+https://www.figma.com/file/jo61u5jQskS1zOfdFypr4i/PSYCHEA-proj?node-id=0%3A1
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Участники
 
-### Compiles and minifies for production
-```
-npm run build
-```
+| Учебная группа | Имя пользователя | ФИО                      |
+|----------------|------------------|--------------------------|
+| 181-321        | @Glazkoff        | Глазков Никита Олегович  |
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Личный вклад участников
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Глазков Н.О. 
+
+Спроектировал … в объёме NN-часов. Разработал … в объёме NN-часов.
+
