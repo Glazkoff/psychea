@@ -1,9 +1,16 @@
 <template>
-  <div>Страница тестирования</div>
+  <div>
+    <Progress></Progress>
+    <h1>Страница тестирования</h1>
+  </div>
 </template>
 <script>
+import Progress from "@/components/Progress.vue";
 export default {
-  name: "TestPage"
+  name: "TestPage",
+  components: {
+    Progress
+  }
 };
 </script>
 
