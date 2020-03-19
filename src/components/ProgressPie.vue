@@ -14,6 +14,9 @@ export default {
 </script>
 
 <style scoped>
+canvas {
+  max-width: 33vw !important;
+}
 .color {
   background-color: #53e780;
 }
