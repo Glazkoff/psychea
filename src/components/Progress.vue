@@ -218,6 +218,7 @@ export default {
   color: #fff;
   font-size: 3.6vh;
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
+  user-select: none;
 }
 .point-box h1::after {
   content: "";
